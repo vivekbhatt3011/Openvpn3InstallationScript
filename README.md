@@ -10,27 +10,6 @@
 ✔ Automated setup script for quick installation & configuration.  
 ✔ Security best practices for a secure VPN setup.  
 
----
-
-## 📌 What's Inside?
-
-### **Installation Guide**
-- Add repositories & install OpenVPN3.
-
-### **Configuration Steps**
-- Import, manage, and start VPN sessions.
-
-### **Service Management**
-- Enable, disable, and restart OpenVPN3.
-
-### **Troubleshooting & Debugging**
-- Solve common VPN issues.
-
-### **Automation Script**
-- A one-click Bash script to install & configure OpenVPN3 effortlessly.
-
----
-
 ## 📚 Resources & Documentation
 📖 [Official OpenVPN Documentation](https://openvpn.net/community-resources/)
 📖 [Kali Linux Documentation](https://www.kali.org/docs/)
